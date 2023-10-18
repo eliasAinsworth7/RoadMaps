@@ -12,6 +12,7 @@ Project is created with:
 * IntelliJ IDEA Community version: 2023.2.2
 * JDK version: 20
 * GUI with swing
+* Java version: 20.0.1
 	
 ## Setup
 To run this project, install it locally using intellij idea:
