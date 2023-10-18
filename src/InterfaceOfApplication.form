@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="InterfaceOfApplication">
+  <grid id="27dc6" binding="mainPanel" layout-manager="GridLayoutManager" row-count="2" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="52" y="33" width="340" height="183"/>
+    </constraints>
+    <properties>
+      <font name="Arial Black" size="14" style="0"/>
+    </properties>
+    <border type="bevel-lowered" title="Just Passsing By" title-justification="2">
+      <color color="-13541915"/>
+    </border>
+    <children>
+      <component id="6f290" class="javax.swing.JComboBox" binding="Cities1">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties/>
+      </component>
+      <grid id="2d143" binding="Buttons" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties/>
+        <border type="empty"/>
+        <children>
+          <component id="58b8c" class="javax.swing.JButton" binding="goWalkButton" default-binding="true">
+            <constraints/>
+            <properties>
+              <text value="Go walk"/>
+            </properties>
+          </component>
+          <component id="78a29" class="javax.swing.JButton" binding="addCityButton" default-binding="true">
+            <constraints/>
+            <properties>
+              <text value="Add City "/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+    </children>
+  </grid>
+</form>
