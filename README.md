@@ -5,7 +5,8 @@
 * [Setup](#setup)
 
 ## General info
-This project is simple road application using some of data structures in java. It displays of the place the user passed by using GUI with swing in java.
+This project is simple road application using some of data structures in java. It displays of the place the user passed by using GUI with swing in java. This app has many problems in. So that, it'll be taken some update. These updates might be gaven by yourself. 
+
 	
 ## Technologies
 Project is created with:
